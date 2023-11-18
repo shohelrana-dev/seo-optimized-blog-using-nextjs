@@ -14,7 +14,7 @@ For Demo and Final Code checkout following links👇: <br />
 ![Nextjs Personal Blog Website About Page](https://github.com/shohelrana-dev/seo-optimized-blog-using-nextjs/blob/main/project-images/about-big.png?raw=true)
 
 #### Contact
-![Next.js Personal Blog Website Contact Page](https://github.com/shohelrana-dev/seo-optimized-blog-using-nextjs/blob/main/project-images/cotnact-big.png?raw=true)
+![Next.js Personal Blog Website Contact Page](https://github.com/shohelrana-dev/seo-optimized-blog-using-nextjs/blob/main/project-images/contact-big.png?raw=true)
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
